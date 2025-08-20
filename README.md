@@ -2,6 +2,9 @@
 <br>
 
 ![ONE](https://github.com/laurenti02?tab=repositories)
+API do Forum Hub
+
+
 
 ## Descrição
 Este projeto implementa uma API REST criada para o challange Forum HUB. Ele oferece operações para criar, listar, atualizar e excluir cursos, tópicos, respostas e usuários, além de funcionalidades de autenticação e autorização com tokens JWT.
